@@ -1,3 +1,9 @@
 ## Hi there 👋
 
-Eu sou o Lamounier, sou um programador Front End atualmente aprendendo e criando projetos com HTML,CSS e iniciando o aprendizado de JavaScript e React.
+Eu sou o Lamounier, sou um programador Front End atualmente aprendendo e criando projetos com: 
+<br>
+<br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
